@@ -7,7 +7,7 @@
 
 
 - 🔭 I'm a Undegraduated Student of Computer Science
-- ⚡ Interested in Data Science,Machine Learning and Data Analytics, Business Inteligence
+- ⚡ Interested in Data Science,Machine Learning, Data Analytics and Business Inteligence
 - 📩 How to recah me : <a href="https://www.linkedin.com/in/richardo-damarjanan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
