@@ -31,7 +31,7 @@
 <a href="https://github.com/richardzefan/Project-Machine-Learning-with-Python-Building-Recommender-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=richardzefan&repo=Project-Machine-Learning-with-Python-Building-Recommender-System&theme=vision-friendly-dark" />
 </a>
-<a href="[https://github.com/richardzefan/Prediksi-Jumlah-Visitor-pada-Barbershop]">
+<a href="https://github.com/richardzefan/Prediksi-Jumlah-Visitor-pada-Barbershop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=richardzefan&repo=Prediksi-Jumlah-Visitor-pada-Barbershop&theme=vision-friendly-dark" />
 </a>
 
