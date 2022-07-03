@@ -26,7 +26,7 @@
 
  ## Highlight Project 💼
  <a href="https://github.com/richardzefan/Employee-Absenteeism---HR-Department">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=richardzefan&repo=Employee-Absenteeism---HR-Departmen&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=richardzefan&repo=Employee-Absenteeism---HR-Department&theme=vision-friendly-dark" />
 </a>
 
 <a href="https://github.com/richardzefan/amazon_stock_price_timeseries">
