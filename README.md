@@ -29,6 +29,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=richardzefan&repo=Employee-Absenteeism---HR-Department&theme=vision-friendly-dark" />
 </a>
 
+ <a href="https://github.com/richardzefan/Credit-Scoring">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=richardzefan&repo=Credit-Scoring&theme=vision-friendly-dark" />
+</a>
+
 <a href="https://github.com/richardzefan/amazon_stock_price_timeseries">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=richardzefan&repo=amazon_stock_price_timeseries&theme=vision-friendly-dark" />
 </a>
