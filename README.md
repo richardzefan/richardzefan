@@ -42,6 +42,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=richardzefan&repo=Credit-Scoring&theme=vision-friendly-dark" />
 </a>
 
+<a href="https://github.com/richardzefan/Home-Credit-Default-Risk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=richardzefan&repo=Home-Credit-Default-Risk&theme=vision-friendly-dark" />
+</a>
+
 <a href="https://github.com/richardzefan/amazon_stock_price_timeseries">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=richardzefan&repo=amazon_stock_price_timeseries&theme=vision-friendly-dark" />
 </a>
