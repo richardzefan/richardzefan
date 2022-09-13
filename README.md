@@ -10,7 +10,7 @@
  
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FECD70&size=25&center=false&lines=hey!+its+Richard...;Data+Science+Enthusiast...;Tech+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=97D2EC&size=25&center=false&lines=hey!+its+Richard...;Data+Science+Enthusiast...;Tech+Enthusiast"/>
 <img align="left" width="150" height="150" src="https://media.giphy.com/media/xT77Y1T0zY1gR5qe5O/giphy.gif"> 
 
 
