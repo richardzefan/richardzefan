@@ -1,3 +1,4 @@
+ <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=richardzefan&label=Profile%20views&color=0e75b6&style=flat"
     alt="richardzefan" /> 
   </p>
@@ -31,7 +32,7 @@
 
 
  ## Highlight Project 💼
- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
  <a href="https://github.com/richardzefan/Employee-Absenteeism---HR-Department">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=richardzefan&repo=Employee-Absenteeism---HR-Department&theme=vision-friendly-dark" />
 </a>
